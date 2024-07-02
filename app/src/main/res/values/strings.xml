@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">多多xp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="xposed_description">强制使用微信平板模式</string>
+    <array name="xposed_scope">
+        <item>com.tencent.mm</item>
+        <item>com.xunmeng.pinduoduo</item>
+    </array>
+</resources>
