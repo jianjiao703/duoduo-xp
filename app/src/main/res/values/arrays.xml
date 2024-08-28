@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="xposed_scope">
+        <item>com.tencent.mm</item>
+        <item>com.xunmeng.pinduoduo</item>
+    </array>
+</resources>
